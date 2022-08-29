@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jiachenpang.tcnpplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jiachenpang.tcnpplugin.MyBundle
 
 class MyApplicationService {
 
